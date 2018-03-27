@@ -1,0 +1,117 @@
+1
+.container1 {
+  position: relative;
+  width: 100%;
+}
+.container2 {
+  position: relative;
+  width: 100%;
+  font-size: 17px !important;
+  line-height: 30px !important;
+}
+.container3 {
+  position: relative;
+  width: 100%;
+}
+.col-sm-4 {
+  position: absolute;
+  padding-left: 320px;
+  padding-top: 50px;
+}
+.col-sm-5 {
+  position: absolute;
+  padding-left: 750px;
+  padding-top: 50px;
+}
+.container {
+  position: relative;
+  width: 100%;
+}
+.text-block {
+  position: absolute;
+  bottom: 160px;
+  right: 200px;
+  background-color: clear;
+  color: white;
+  padding-left: 20px;
+  padding-right: 20px;
+  font-size: 20px;
+}
+.container-start {
+  font-family: sans-serif;
+}
+/1
+
+2
+.container {
+  position: relative;
+  width: 100%;
+}
+.text-block {
+  position: absolute;
+  bottom: 230px;
+  right: 155px;
+  background-color: clear;
+  color: white;
+  padding-left: 20px;
+  padding-right: 20px;
+  font-size: 30px;
+}
+.container1 {
+  position: relative;
+  width: 100%;
+  padding-top: 125px;
+  font-size: 30px;
+}
+.col-sm-4 {
+  position: absolute;
+  padding-left: 320px;
+  padding-top: 50px;
+}
+.col-sm-5 {
+  position: absolute;
+  padding-left: 900px;
+  padding-top: 45px;
+}
+
+.container2 {
+  position: relative;
+  width: 100%;
+  font-size: 17px !important;
+  line-height: 30px !important;
+}
+.container3 {
+  position: relative;
+  width: 100%;
+  font-size: 25px !important;
+  line-height: 30px !important;
+}
+.container4 {
+  position: relative;
+  width: 100%;
+  font-size: 17px !important;
+  line-height: 30px !important;
+}
+.container5 {
+  position: relative;
+  width: 100%;
+  font-size: 30px !important;
+  line-height: 30px !important;
+}
+.container-start {
+  font-family: sans-serif;
+}
+/2
+
+3
+.container-start {
+  font-family: sans-serif;
+}
+.container-box {
+  position: absolute;
+  font-size: 15px;
+  line-height: 40px;
+  padding-left: 100px;
+  top: 125px;
+}
+/3
